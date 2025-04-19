@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['wait_0',['wait',['../d8/d8c/classembed_1_1_future.html#aedeac1b3349e254090c92eff0de2902a',1,'embed::Future']]],
+  ['want_20to_20use_20cmake_1',['Want to Use CMake',['../index.html#autotoc_md13',1,'🛠 Don&apos;t Want to Use CMake?'],['../dc/d2a/page_getting_started_download_and_integration.html#page_getting_started_download_raw',1,'🛠 Don&apos;t Want to Use CMake?']]],
+  ['waste_20tasking_2',['🌀 Coroutine-powered, zero-waste tasking',['../index.html#autotoc_md1',1,'']]],
+  ['what_3',['what',['../d5/d2f/classembed_1_1_exception.html#a589ccdf795d52a7ff1d2a08e3372d999',1,'embed::Exception']]],
+  ['white_4',['white',['../da/d58/namespaceembed_1_1ansi.html#ac2cf68e5773ddeec0db6252af1c82ccf',1,'embed::ansi']]],
+  ['who_20is_20embedos_20for_5',['🔍 Who is embedOS for?',['../index.html#autotoc_md6',1,'']]],
+  ['why_20not_20overload_20tt_20co_5fawait_20tt_20directly_6',['Why Not Overload &lt;tt&gt;co_await&lt;/tt&gt; Directly?',['../d2/da0/page_co_await_safety.html#section_co_await_safety_why',1,'']]],
+  ['why_20use_20this_7',['Why Use This?',['../d8/dd3/page_overflow_aware_clocks.html#page_overflow_aware_clocks_overflow_awareness_why',1,'']]],
+  ['with_20future_20promise_8',['Async Communication with Future/Promise',['../da/db6/getting_started_async_future_promise.html',1,'getting_started']]],
+  ['with_20its_20command_20a_20href_20https_3a_20cmake_20org_20cmake_20help_20latest_20command_20add_5fsubdirectory_20html_20tt_20add_5fsubdirectory_20tt_20a_9',['with its command a href https: cmake org cmake help latest command add_subdirectory html tt add_subdirectory tt a',['../index.html#autotoc_md12',1,'&lt;a href=&quot;https://cmake.org/&quot; &gt;CMake&lt;/a&gt; with its command &lt;a href=&quot;https://cmake.org/cmake/help/latest/command/add_subdirectory.html&quot; &gt;&lt;tt&gt;add_subdirectory&lt;/tt&gt;&lt;/a&gt;'],['../dc/d2a/page_getting_started_download_and_integration.html#page_getting_started_download_cmake_add_subdir',1,'&lt;a href=&quot;https://cmake.org/&quot; &gt;CMake&lt;/a&gt; with its command &lt;a href=&quot;https://cmake.org/cmake/help/latest/command/add_subdirectory.html&quot; &gt;&lt;tt&gt;add_subdirectory&lt;/tt&gt;&lt;/a&gt;']]],
+  ['with_20its_20command_20a_20href_20https_3a_20cmake_20org_20cmake_20help_20latest_20module_20fetchcontent_20html_20tt_20fetchcontent_20tt_20a_10',['with its command a href https: cmake org cmake help latest module FetchContent html tt FetchContent tt a',['../index.html#autotoc_md11',1,'&lt;a href=&quot;https://cmake.org/&quot; &gt;CMake&lt;/a&gt; with its command &lt;a href=&quot;https://cmake.org/cmake/help/latest/module/FetchContent.html&quot; &gt;&lt;tt&gt;FetchContent&lt;/tt&gt;&lt;/a&gt;'],['../dc/d2a/page_getting_started_download_and_integration.html#page_getting_started_download_cmake_fetchcontent',1,'&lt;a href=&quot;https://cmake.org/&quot; &gt;CMake&lt;/a&gt; with its command &lt;a href=&quot;https://cmake.org/cmake/help/latest/module/FetchContent.html&quot; &gt;&lt;tt&gt;FetchContent&lt;/tt&gt;&lt;/a&gt;']]],
+  ['with_20tt_20chrono_20tt_11',['Integration with &lt;tt&gt;\&lt;chrono\&gt;&lt;/tt&gt;',['../d8/dd3/page_overflow_aware_clocks.html#page_overflow_aware_clocks_overflow_integration_with_stdchrono',1,'']]],
+  ['word_12',['word',['../d6/df6/structembed_1_1_static_linear_allocator.html#a802dc4dad356676e201fd3337fe00b69',1,'embed::StaticLinearAllocator']]],
+  ['works_13',['It Works',['../d9/d9d/embed_sys_stubs.html#How',1,'']]],
+  ['wrappers_20for_20embedded_20binary_20size_20reduction_14',['System Stubs: Wrappers for Embedded Binary Size Reduction',['../d9/d9d/embed_sys_stubs.html',1,'']]],
+  ['wraps_20at_20a_20custom_20maximum_20e_20g_201023_20_3a_15',['✔️ Timer that wraps at a custom maximum (e.g., 1023):',['../d8/dd3/page_overflow_aware_clocks.html#autotoc_md30',1,'']]],
+  ['write_16',['write',['../da/d0a/classembed_1_1_o_stream.html#abcd51bc01eaddfae9d0c9fa7579ab160',1,'embed::OStream::write(const char *str, size_t len)'],['../da/d0a/classembed_1_1_o_stream.html#a7c15f15cda24d9fcf8865cc3b7b2c879',1,'embed::OStream::write(const char *str)']]]
+];

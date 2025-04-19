@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['magenta_0',['magenta',['../da/d58/namespaceembed_1_1ansi.html#a0c42635519d35a68f3745d5bdc4b3521',1,'embed::ansi']]],
+  ['make_5ffuture_5fpromise_1',['make_future_promise',['../d8/d8c/classembed_1_1_future.html#ac0789e89aad14d96ad83c5481c7d9318',1,'embed::Future::make_future_promise()'],['../de/dd8/classembed_1_1_promise.html#ac0789e89aad14d96ad83c5481c7d9318',1,'embed::Promise::make_future_promise()'],['../da/d2e/namespaceembed.html#aec82ecae8adedfd3652fdad9835931c7',1,'embed::make_future_promise()']]],
+  ['make_5ffuture_5fpromise_5ftest_2',['make_future_promise_test',['../da/d2e/namespaceembed.html#a4db2ea669f67bd84b3090330b9284829',1,'embed']]],
+  ['master_3',['master',['../df/dd8/classembed_1_1_coroutine_node.html#a5ba3d2740df0cdce9f3953eeda34a475',1,'embed::CoroutineNode::master()'],['../df/dd8/classembed_1_1_coroutine_node.html#a02fab0790c39ee6f0dadb72ab6c2db38',1,'embed::CoroutineNode::master() const']]],
+  ['math_2ecpp_4',['math.cpp',['../dd/d2d/math_8cpp.html',1,'']]],
+  ['math_2ehpp_5',['math.hpp',['../d4/d78/math_8hpp.html',1,'']]],
+  ['max_5fsize_6',['max_size',['../d1/de2/classembed_1_1_array_list.html#a3fc3dedf27a66a7aea316785376ccd73',1,'embed::ArrayList::max_size()'],['../d2/d0d/classembed_1_1_dual_array_list.html#a1e2981c9e684e0d4f0d77e045d4a40be',1,'embed::DualArrayList::max_size()'],['../d2/d32/classembed_1_1_left_dual_array_list.html#ad32f9457871af6668b5843751a6d88b1',1,'embed::LeftDualArrayList::max_size()'],['../d8/d37/classembed_1_1_right_dual_array_list.html#a417ac55be95a84173092408d494056c6',1,'embed::RightDualArrayList::max_size()'],['../d0/d96/classembed_1_1_dual_priority_queue.html#a703ef748cf5446da510753ca28df6de9',1,'embed::DualPriorityQueue::max_size()'],['../df/d31/classembed_1_1_stage2_dual_priority_queue.html#aae6308e8b952da9306efa7fd5c4f1192',1,'embed::Stage2DualPriorityQueue::max_size()'],['../d4/db1/classembed_1_1_priority_queue.html#a944d81b98232ac250bf24d9767f66589',1,'embed::PriorityQueue::max_size()'],['../da/d2e/namespaceembed.html#a7bc099b9a2cfd8bfd7e3f15a80020721',1,'embed::max_size()']]],
+  ['max_5ftick_7',['max_tick',['../d3/d21/classembed_1_1_clock_tick.html#a138db63b564a0be8682dbadc09b35f9d',1,'embed::ClockTick::max_tick'],['../da/d86/structembed_1_1_clock.html#a06db6c280c00615c53372d9c23a5b153',1,'embed::Clock::max_tick']]],
+  ['max_5ftick_5fis_5flimit_8',['max_tick_is_limit',['../d3/d21/classembed_1_1_clock_tick.html#a231eb2ea97f80f26722cbe538ea3a852',1,'embed::ClockTick']]],
+  ['maximum_20e_20g_201023_20_3a_9',['✔️ Timer that wraps at a custom maximum (e.g., 1023):',['../d8/dd3/page_overflow_aware_clocks.html#autotoc_md30',1,'']]],
+  ['measured_20impact_10',['Results and Measured Impact',['../d9/d9d/embed_sys_stubs.html#results',1,'']]],
+  ['memcpy_11',['memcpy',['../da/d2e/namespaceembed.html#afca9b6603fe5654bfda9f78552324031',1,'embed']]],
+  ['memcpy_5fs_12',['memcpy_s',['../da/d2e/namespaceembed.html#a0aef787367fcd2d3d3bac830e61174c6',1,'embed::memcpy_s(void *dest, size_t destSize, const void *source, size_t sourceSize)'],['../da/d2e/namespaceembed.html#a348183f304efebc2fa669e9e0edb1976',1,'embed::memcpy_s(void *destFirst, void *destLast, const void *sourceFirst, const void *sourceLast)']]],
+  ['memory_20usage_13',['💡 Stackless, deterministic memory usage',['../index.html#autotoc_md3',1,'']]],
+  ['memory_2ecpp_14',['memory.cpp',['../d8/d71/memory_8cpp.html',1,'']]],
+  ['memory_2ehpp_15',['memory.hpp',['../da/d3e/memory_8hpp.html',1,'']]],
+  ['missed_5fdeadline_16',['missed_deadline',['../d8/d77/classembed_1_1_real_time_task.html#aa962d3ce56c70d18766b6e65d3106e95',1,'embed::RealTimeTask']]],
+  ['mit_17',['✅ Open Source License (MIT)',['../index.html#autotoc_md15',1,'']]],
+  ['model_18',['Coroutine Execution Model',['../d2/d42/page_coroutine_execution_model.html',1,'']]],
+  ['modes_20and_20effects_20analysis_19',['Failure Modes and Effects Analysis',['../d1/de2/classembed_1_1_array_list.html#autotoc_md18',1,'']]],
+  ['module_20fetchcontent_20html_20tt_20fetchcontent_20tt_20a_20',['module FetchContent html tt FetchContent tt a',['../index.html#autotoc_md11',1,'&lt;a href=&quot;https://cmake.org/&quot; &gt;CMake&lt;/a&gt; with its command &lt;a href=&quot;https://cmake.org/cmake/help/latest/module/FetchContent.html&quot; &gt;&lt;tt&gt;FetchContent&lt;/tt&gt;&lt;/a&gt;'],['../dc/d2a/page_getting_started_download_and_integration.html#page_getting_started_download_cmake_fetchcontent',1,'&lt;a href=&quot;https://cmake.org/&quot; &gt;CMake&lt;/a&gt; with its command &lt;a href=&quot;https://cmake.org/cmake/help/latest/module/FetchContent.html&quot; &gt;&lt;tt&gt;FetchContent&lt;/tt&gt;&lt;/a&gt;']]],
+  ['modulo_21',['modulo',['../d3/d21/classembed_1_1_clock_tick.html#a20e29e4288308011480074e34706a14d',1,'embed::ClockTick']]],
+  ['modulo_5fis_5fpower_5fof_5ftwo_22',['modulo_is_power_of_two',['../d3/d21/classembed_1_1_clock_tick.html#a788303f304ef763ccc02bb56dd40c973',1,'embed::ClockTick']]],
+  ['motivation_23',['Motivation',['../index.html#autotoc_md0',1,'⚡ Motivation'],['../d2/da0/page_co_await_safety.html#section_co_await_safety_motivation',1,'Motivation']]],
+  ['mwidth_24',['mwidth',['../dc/d23/structembed_1_1_format_str.html#a5e81671fbfcc5eba44b7dd3709481c1f',1,'embed::FormatStr::mwidth()'],['../d8/d02/structembed_1_1_format_bool.html#ad66ff65b8a4512364c87dbe99e719bbb',1,'embed::FormatBool::mwidth()'],['../d7/d25/structembed_1_1_format_int.html#a95ed06c429c37ee234186ea64808d6f7',1,'embed::FormatInt::mwidth()'],['../d8/d05/structembed_1_1_format_float.html#a1a1c966bd60fc3c03ad5d8f8aab7f585',1,'embed::FormatFloat::mwidth()'],['../d4/d27/structembed_1_1_format_hex.html#ad60676f1c7560b00d41dabcceec409e7',1,'embed::FormatHex::mwidth()']]]
+];
